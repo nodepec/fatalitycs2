@@ -6,7 +6,6 @@ local messages = {
     "your going in the next montage lil vro",
     "bot_kick",
     "iq?",
-    "i know my fembussy looks good but you need to focus",
     "LIFEHAAACK BITCH (◣_◢)",
 }
 
