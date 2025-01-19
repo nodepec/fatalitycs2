@@ -3,7 +3,6 @@ local messages = {
     "sit doggy",
     "SLAMMMMMED",
     "free merdia lil vro",
-    "your going in the next montage lil vro",
     "bot_kick",
     "iq?",
     "LIFEHAAACK BITCH (◣_◢)",
